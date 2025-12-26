@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+Pillow
+python-dotenv
+easyocr
+groq
+torch
+torchvision
+torchaudio --index-url https://download.pytorch.org/whl/cpu
